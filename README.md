@@ -8,6 +8,11 @@
 -HTML
 <br>
 -CSS
-<p>Desktop<img width= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/master/img/desktop.png?raw=true" alt="we-care-desktop"/></p>
-<p>Celular<img width= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/master/img/celular.png?raw=true"></p>
+<br>
+<p>Desktop</p>
+<img width= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/master/img/desktop.png?raw=true" alt="we-care-desktop"/>
+
+<p>Celular</p>
+<img height= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/master/img/celular.png?raw=true" alt="we-care-mobile">
+
 
