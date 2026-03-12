@@ -11,9 +11,9 @@
 <br>
 <br>
 <p>Desktop</p>
-<img width= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/master/img/desktop.png?raw=true" alt="we-care-desktop"/>
+<img width= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/main/img/desktop.png?raw=true" alt="we-care-desktop"/>
 
 <p>Celular</p>
-<img height= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/master/img/celular.png?raw=true" alt="we-care-mobile">
+<img height= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/main/img/celular.png?raw=true" alt="we-care-mobile">
 
 
