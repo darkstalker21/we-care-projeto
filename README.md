@@ -4,11 +4,10 @@
 <p>Esse foi um projeto que eu aprendi no DevClub. Ele está responsivo, funciona tanto no pc quanto no celular</p>
 <br>
 <h2>Tecnologias utilizadas</h2>
-<br>
--HTML
-<br>
--CSS
-<br>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 <br>
 <p>Desktop</p>
 <img width= 500px src="https://github.com/darkstalker21/we-care-projeto/blob/main/img/desktop.png?raw=true" alt="we-care-desktop"/>
